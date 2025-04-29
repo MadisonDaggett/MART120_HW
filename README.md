@@ -1,0 +1,5 @@
+I plan on making my final project a "runner" style game with a character and obstacles for the character to jump over. I will use Adobe Illustrator to design the character and obstacles and stylize the game. I was inspired by a few Youtubers:
+https://youtu.be/r9I4DuGmJ2Y?si=D7KH5CrNU7ClSU0o (link to Goodgis video creating a Capybara running game)
+https://youtu.be/Ouza_4SsbLc?si=DsZ_vOx3Ebk61P3Q (link to The Coding Train basic instrustions on coding a runner game in p5.js)
+I will be using a different design and expanding on code, but I'm planning on building off of what I've learned from these videos. I'm currently working on coding in p5.js, and I plan to use the weekend to create and import my character and design into the game. 
+I am confident in the basic coding of the game and my ability to create a character in Adobe Illustrator. I am less confident in my ability to import those characters/designs into the game, because I haven't worked with both p5.js and Illustrator in combination before. I'll also be challenging myself with collisions/life counters/ etc. to pad out the game. 
